@@ -1,0 +1,6 @@
+status.csv
+trip.csv
+station.csv
+weather.csv
+bluebikes_*.csv
+*.ipynb_checkpoints/
